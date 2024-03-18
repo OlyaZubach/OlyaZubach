@@ -6,13 +6,13 @@ Welcome to my portfolio! I am an aspiring Junior QA Engineer, interested in find
 ## Contents
 
 - [Bug Reports](https://github.com/OlyaZubach/Portfolio/tree/master/bug_reports/)
-- [Checklists](#checklists)
-- [API Work in Postman](#api-work-in-postman)
-- [Database ](#database)
-- [Test Cases](#test-cases)
-- [Test Design Methods](#test-design-methods)
-- [Types of Testing](#types-of-testing)
-- [CV](#cv)
+- [Checklists](https://github.com/OlyaZubach/Portfolio/tree/master/checklists/))
+- [API Work in Postman](https://github.com/OlyaZubach/Portfolio/tree/master/api_postman/)
+- [Database ](https://github.com/OlyaZubach/Portfolio/tree/master/database/)
+- [Test Cases](https://github.com/OlyaZubach/Portfolio/tree/master/test_cases/)
+- [Test Design](https://github.com/OlyaZubach/Portfolio/tree/master/engineering_test_design/)
+- [Types of Testing](https://github.com/OlyaZubach/Portfolio/tree/master/examples_of_types_of_testing.pdf/)
+- [CV](https://github.com/OlyaZubach/Portfolio/tree/master/cv_zubach_olya.pdf/)
 
 ### Bug Reports
 Here, you will see detailed reports of bugs I found when testing an online pet shop. Each bug report includes a problem description, steps to reproduce, expected and actual results, and screenshots.
