@@ -6,7 +6,7 @@ Welcome to my portfolio! I am an aspiring Junior QA Engineer, interested in find
 ## Contents
 
 - [Bug Reports](https://github.com/OlyaZubach/Portfolio/tree/master/bug_reports/)
-- [Checklists](https://github.com/OlyaZubach/Portfolio/tree/master/checklists/))
+- [Checklists](https://github.com/OlyaZubach/Portfolio/tree/master/checklists/)
 - [API Work in Postman](https://github.com/OlyaZubach/Portfolio/tree/master/api_postman/)
 - [Database ](https://github.com/OlyaZubach/Portfolio/tree/master/database/)
 - [Test Cases](https://github.com/OlyaZubach/Portfolio/tree/master/test_cases/)
