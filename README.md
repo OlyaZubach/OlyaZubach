@@ -5,7 +5,7 @@ Welcome to my portfolio! I am an aspiring Junior QA Engineer, interested in find
 
 ## Contents
 
-- [Bug Reports](#bug-reports)
+- [Bug Reports](Portfolio/bug_reports/)
 - [Checklists](#checklists)
 - [API Work in Postman](#api-work-in-postman)
 - [Database ](#database)
