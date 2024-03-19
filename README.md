@@ -64,5 +64,3 @@ This is my professional resume. It talks about my testing experience, skills, an
 
 Thanks for looking at my portfolio. I hope to show my skills, achievements, and my eagerness to learn and grow in software testing. I am open to new chances to work. If you want to talk about work or ideas, please email me at o.scherbysik@gmail.com.
 
-Best,
-[Olga Zubach]
