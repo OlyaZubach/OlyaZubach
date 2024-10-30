@@ -12,7 +12,7 @@ Welcome to my portfolio! I am an aspiring Junior QA Engineer, interested in find
 - [Test Cases](https://github.com/OlyaZubach/Portfolio/tree/master/test_cases/)
 - [Test Design](https://github.com/OlyaZubach/Portfolio/tree/master/engineering_test_design/)
 - [Types of Testing](https://github.com/OlyaZubach/Portfolio/tree/master/examples_of_types_of_testing.pdf/)
-- [CV](https://github.com/OlyaZubach/Portfolio/tree/master/cv_zubach_olya.pdf/)
+- [CV](https://github.com/OlyaZubach/Portfolio/tree/master/cv_zubach_olha.pdf/)
 
 ### Bug Reports
 Here, you will see detailed reports of bugs I found when testing an online pet shop. Each bug report includes a problem description, steps to reproduce, expected and actual results, and screenshots.
